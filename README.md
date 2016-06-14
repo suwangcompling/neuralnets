@@ -1,7 +1,7 @@
 # neuralnets
 
 **Reference:** 
-* fnn: Mike Nielsen's book.
+* fnn: Mike Nielsen's book + My homebrew Theano implementations.
 * rnn: Dan Britz's blog.
 
 **Contribution:**
